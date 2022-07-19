@@ -24,7 +24,7 @@
 		props: {
 			total: { type: Number, required: true },
 		},
-		data () {
+		data<Number> () {
 			return {
 				max: 26
 			};
