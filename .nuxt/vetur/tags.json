@@ -1,0 +1,17 @@
+{
+  "AtomIncrementerDigits": {
+    "description": "Auto imported from components/atom/IncrementerDigits.vue"
+  },
+  "AtomPercentageBar": {
+    "description": "Auto imported from components/atom/PercentageBar.vue"
+  },
+  "AtomTaskPriority": {
+    "description": "Auto imported from components/atom/TaskPriority.vue"
+  },
+  "MoleculesAbout": {
+    "description": "Auto imported from components/molecules/About.vue"
+  },
+  "OrganismsCard": {
+    "description": "Auto imported from components/organisms/Card.vue"
+  }
+}
